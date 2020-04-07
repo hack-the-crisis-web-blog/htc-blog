@@ -1,0 +1,11 @@
+.menu {
+  display: inline-flex;
+
+  &:nth-of-type(1n + 2) {
+    margin-left: 60px;
+  }
+}
+
+.menuColumn:nth-of-type(1n + 2) {
+  margin-left: 30px;
+}

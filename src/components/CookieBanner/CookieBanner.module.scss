@@ -1,0 +1,39 @@
+@import '../../styles/styleSetup.scss';
+
+.cookie {
+  background-color: $primary;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  font-size: 14px;
+
+  .bubble {
+    width: 55px;
+    height: 55px;
+    border-radius: 100%;
+    background-color: $warning;
+    margin-right: 40px;
+    flex-grow: 0;
+    flex-shrink: 0;
+  }
+
+  a {
+    text-decoration: underline;
+    color: white;
+  }
+
+  .btn {
+    margin-left: auto;
+
+    @include mobile() {
+      margin: 0 auto;
+    }
+  }
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}

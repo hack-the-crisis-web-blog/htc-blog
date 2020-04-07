@@ -1,0 +1,9 @@
+@import "../../styles/styleSetup.scss";
+
+.mainLogo {
+  height: 20px;
+
+  @include desktop() {
+    height: 30px;
+  }
+}

@@ -1,0 +1,49 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Muli:400,600|Prompt:400,600,700&display=swap');
+
+// configure style here
+
+$dark-purple: #101060;
+$darker-purple: #010137;
+$dark-blue: #0060f6;
+$blue: #48b5e7;
+$light-blue: #bee8fa;
+$white: #ffffff;
+$orange: #f9583e;
+$black: #101010;
+$light-beige: #f4f1e9;
+$dark-grey: #202020;
+$light-grey: #979797;
+$lighter-grey: #f8f8f8;
+$dark-green: #008367;
+$mooncascade-yellow: #fdc909;
+$brandmanual-orange: #f54408;
+$veebimajutus-orange: #ef8000;
+
+$primary: $dark-purple;
+$link: $dark-blue;
+$info: $blue;
+$success: $light-blue;
+$warning: $orange;
+$danger: $light-beige;
+
+$text: $black;
+$text-light: $light-grey;
+$text-strong: $black;
+
+// navbar: https://bulma.io/documentation/components/navbar/#variables
+$navbar-item-color: $white;
+$navbar-item-hover-color: $white;
+$navbar-item-hover-background-color: transparent;
+$navbar-background-color: $darker-purple;
+$navbar-height: 5rem;
+$navbar-height-touch: 3.75rem;
+
+$family-sans-serif: 'Muli', sans-serif;
+$family-secondary: 'Prompt', sans-serif;
+
+$title-color: $text-strong;
+
+// footer
+$footer-background-color: transparent;
+$footer-padding: 4em 0 3.375em 0;

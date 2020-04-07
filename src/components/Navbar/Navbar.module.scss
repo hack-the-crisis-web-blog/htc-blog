@@ -1,0 +1,60 @@
+@import '../../styles/styleSetup.scss';
+
+.nav {
+  @include touch() {
+    min-height: $navbar-height-touch;
+  }
+}
+
+.hoverMenu {
+  position: absolute;
+  right: 0;
+  left: 0;
+
+  @include desktop() {
+    position: static;
+  }
+}
+
+.burger {
+  @include touch() {
+    margin-left: 0;
+  }
+}
+
+.spaceRight {
+  @include touch() {
+    margin-right: 16px;
+  }
+}
+
+.navItem {
+  margin: 16px 0;
+  font-size: 28px;
+  font-weight: bold;
+
+  @include desktop() {
+    margin: 0 25px;
+    margin-left: 16px;
+    margin-right: 16px;
+    font-size: 14px;
+  }
+}
+
+.subnavItem {
+  font-size: 18px;
+  margin: 8px 0;
+
+  @include desktop() {
+    text-align: left;
+
+    &:hover {
+      color: $primary !important;
+      text-decoration: underline;
+    }
+    color: $text;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 0;
+  }
+}

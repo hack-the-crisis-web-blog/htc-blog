@@ -1,0 +1,128 @@
+@import '../../styles/styleSetup.scss';
+
+/* BRAND SPECIFIC VARIABLES */
+$main-color: $warning;
+$main-color-hover: $warning;
+$main-color-disabled: $light-grey;
+
+$large-font-size: 16px;
+$large-padding: 16px 22px;
+
+$normal-font-size: 17px;
+$normal-padding: 17px 35px;
+
+$small-font-size: 14px;
+$small-padding: 10px 18px;
+
+@mixin buttonFill($bg-color, $bg-color-hover, $bg-color-disabled, $text-color) {
+  background: $bg-color;
+  color: $text-color;
+
+  &:hover {
+    background-color: $bg-color-hover;
+  }
+
+  &.disabled,
+  &:disabled {
+    background-color: $bg-color-disabled;
+  }
+}
+
+@mixin buttonOutline() {
+  color: $white;
+  border-color: $white;
+  background: transparent;
+
+  &:hover {
+    .circle-loader__dot::before {
+      background-color: $white;
+    }
+  }
+
+  &.is-disabled,
+  &:disabled {
+    color: $main-color-disabled;
+    border-color: $main-color-disabled;
+  }
+}
+
+@mixin buttonSize($font-size, $padding) {
+  padding: $padding;
+  font-size: $font-size;
+}
+
+.button,
+a.button {
+  position: relative;
+  outline: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 17px;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid transparent;
+  line-height: 1;
+  border-radius: 2px;
+  height: unset;
+
+  @include buttonSize($normal-font-size, $normal-padding);
+
+  &.small {
+    @include buttonSize($small-font-size, $small-padding);
+  }
+
+  &.large {
+    @include buttonSize($large-font-size, $large-padding);
+  }
+
+  &.primary {
+    @include buttonFill(
+      $main-color,
+      $main-color-hover,
+      $main-color-disabled,
+      white
+    );
+  }
+
+  &.outline {
+    @include buttonOutline();
+  }
+
+  &.block {
+    width: 100%;
+  }
+
+  &.disabled,
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.8;
+    pointer-events: none;
+    background-color: $main-color-disabled;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  & + & {
+    margin-left: 5px;
+  }
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  line-height: 1em;
+
+  .loading & {
+    visibility: hidden;
+  }
+
+  .block & {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

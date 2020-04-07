@@ -1,0 +1,62 @@
+@import '../../../styles/styleSetup.scss';
+
+.creditsContainer {
+  display: block;
+  width: $widescreen;
+  margin: 0 auto;
+  padding: 5px 0;
+  max-width: 90%;
+  text-transform: uppercase;
+  font-size: 12px;
+
+  @include desktop() {
+    padding: 13px 0;
+  }
+}
+
+.creditsInnerContainer {
+  display: inline-flex;
+  flex-direction: column;
+
+  @include desktop() {
+    flex-direction: row;
+  }
+}
+
+.creditsContent {
+  display: flex;
+  padding: 7px 0;
+  align-items: center;
+  overflow: visible;
+
+  @include desktop() {
+    padding: 0;
+  }
+
+  > p {
+    margin-right: 6px;
+    width: 110px;
+
+    @include desktop() {
+      width: auto;
+    }
+  }
+
+  a {
+    letter-spacing: 2px;
+    font-weight: bold;
+    width: 135px;
+  }
+}
+
+.brandManual {
+  color: $brandmanual-orange;
+}
+
+.mooncascade {
+  color: $mooncascade-yellow;
+}
+
+.veebimajutus {
+  color: $veebimajutus-orange;
+}

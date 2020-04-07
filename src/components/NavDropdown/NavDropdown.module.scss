@@ -1,0 +1,70 @@
+@import '../../styles/styleSetup.scss';
+
+.button {
+  position: relative;
+  cursor: pointer;
+  margin-bottom: 0;
+
+  @include touch() {
+  }
+
+  @include desktop() {
+    color: $primary;
+  }
+}
+
+// cover behind the link
+.background {
+  @include desktop() {
+    z-index: -1;
+    position: absolute;
+    top: 5px;
+    bottom: 0;
+    left: -16px;
+    right: -16px;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    background: $white;
+  }
+}
+
+.indicator {
+  @include desktop() {
+    display: none;
+  }
+}
+
+.thickDash {
+  // font-weight: bold;
+}
+
+.buttonClosed {
+  @include touch() {
+    margin-bottom: 16px;
+  }
+
+  @include desktop() {
+    color: $white;
+  }
+}
+
+.dropdown {
+  display: flex;
+  flex-flow: column nowrap;
+
+  @include desktop() {
+    position: absolute;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    background: $white;
+    top: 0;
+    left: -16px;
+    right: -16px;
+    transform: translate(0, $navbar-height);
+    color: $primary;
+  }
+}
+
+.closed {
+  display: none;
+}

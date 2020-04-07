@@ -1,0 +1,10 @@
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  &:nth-of-type(1n + 2) {
+    margin-left: 30px;
+  }
+}

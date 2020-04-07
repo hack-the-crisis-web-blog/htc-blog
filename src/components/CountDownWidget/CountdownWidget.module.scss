@@ -1,0 +1,29 @@
+@import '../../styles/styleSetup.scss';
+
+.widget {
+  align-self: center;
+  font-size: 13px;
+  background-color: $white;
+  color: $text;
+  border-radius: 3px;
+  padding: 0 16px;
+  display: flex;
+  flex-flow: row nowrap;
+  margin-left: auto;
+
+  @include desktop() {
+    margin-right: 50px;
+  }
+}
+
+.icon {
+  display: block;
+  height: 17px;
+  width: 17px;
+  margin-right: 5px;
+}
+
+.text {
+  display: block;
+  line-height: 27px;
+}

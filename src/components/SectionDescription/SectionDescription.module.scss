@@ -1,0 +1,23 @@
+@import '../../styles/styleSetup.scss';
+
+.content {
+  margin-bottom: 55px;
+  color: $dark-grey;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.p {
+  &:not(:last-of-type) {
+    margin-bottom: 10px;
+  }
+}
+
+.restrictWidth {
+  max-width: 526px;
+}
+
+.alignRight {
+  margin-left: auto;
+}

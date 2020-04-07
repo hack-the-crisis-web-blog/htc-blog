@@ -1,0 +1,13 @@
+@import '../../../styles/styleSetup.scss';
+
+.contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  color: $black;
+  font-size: 13px;
+  line-height: 22px;
+  letter-spacing: 0;
+}
