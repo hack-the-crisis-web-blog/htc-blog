@@ -4,6 +4,7 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import CustomLink from "../components/CustomLink/CustomLink";
 
 export const BlogPostTemplate = ({
   content,
@@ -21,6 +22,9 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+            <CustomLink to={"/blog"} reversed>
+              Back
+            </CustomLink>
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
