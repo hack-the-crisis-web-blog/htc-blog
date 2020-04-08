@@ -11,6 +11,8 @@ description: >-
   from around the world.
 featuredimage: /blog-images/coronavirus-4914026_640.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/1FCj_9E8LRCgqLaKBa-JLiUnmgUmXYVeozRVVw-HWF6k/edit) / [DE](https://docs.google.com/document/d/1aJEHVYF2zAawAIv22RMYnZN4PfGdGcsW8Ut80MM3Ufg/edit) / [ESP](https://docs.google.com/document/d/1HbU3ZZJ6SJOZulrd9OxHptbVJc5TVgMAnyP03pz9xdo/edit) / [RUS](https://drive.google.com/drive/folders/1Fvi2LM0z_MwyGG2G2kConAPDTKE8vXLP)\
+\
 **A first-hand account of being quarantined with COVID-19…**
 
 Little did he or the crowd know that COVID-19 had arrived on Estonia’s shores just days before. How could they have known, as COVID-19 was barely making news headlines in other countries? So Tiit and co enjoyed their weekend and returned home as the weekend came to a close.
