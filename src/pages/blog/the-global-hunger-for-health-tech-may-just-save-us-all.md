@@ -26,7 +26,7 @@ Case in point, the recent #HACKTHEVIRUS event that was pulled together by Garage
 
 This, in turn, led to the upcoming “[The Global Hack](http://www.theglobalhack.com)“ online hackathon running from 09-12 April andwhich is expected to attract over 1 million participants from across the world. The event is being led in partnership between Accelerate Estonia, the Ministry of Foreign Trade and Information Technology, Garage48, with additional financial support from the European Commission.
 
-At a time where fully half the planets population is in lockdown, what better cause can there be than to team up online and combine forces to tackle the world’s most serious issue?\
-\
+At a time where fully half the planets population is in lockdown, what better cause can there be than to team up online and combine forces to tackle the world’s most serious issue?
+
 
 ---

@@ -5,6 +5,7 @@ date: 2020-04-08T09:18:40.173Z
 description: >-
   15,000 participants came together online to solve the challenges caused by the
   crisis using technology as part of the global hackathon movement.
+
 author: by Jae Jensen
 featuredimage: /blog-images/pajamas.jpg
 ---
@@ -26,3 +27,5 @@ Another product of Italy’s hackathon is [www.promettoditornare.it](http://www.
 Less than two weeks out from the event, the hackathon winners are quickly finding ways to bring their ideas to life. They are in need of designers, developers, specialists, marketers, funds and many other assets, but they are not letting that stop them. When so much is uncertain, it is reassuring to see people looking out for their neighbors, their communities, and people far away they may never meet.
 
 Though many national hackathons have passed, if you have an idea or the motivation to make an impact, register now for [The Global Hack](https://theglobalhack.com/), 9-12 April. Make history and partake in the biggest hackathon ever held.
+
+---

@@ -4,11 +4,11 @@ templateKey: blog-post
 title: "Smart solutions for reducing the risk and impact of COVID-19 "
 date: 2020-04-08T10:30:37.070Z
 description: >-
-Technologies we took for granted yesterday will soon save lives tomorrow.
-COVID-19 has forced 3 billion people into lockdown around the globe, but even
-that hasn’t stopped some enterprising cohorts of talent around the world from
-coming together to apply their skills, experience and knowledge to developing
-potential solutions to deal with the pandemic.
+  Technologies we took for granted yesterday will soon save lives tomorrow.
+  COVID-19 has forced 3 billion people into lockdown around the globe, but even
+  that hasn’t stopped some enterprising cohorts of talent around the world from
+  coming together to apply their skills, experience and knowledge to developing
+  potential solutions to deal with the pandemic.
 author: By Chris Rhyss Edwards, CEO Empathic Ltd
 featuredimage: /blog-images/coronaapp2.jpg
 
