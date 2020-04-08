@@ -11,7 +11,7 @@ description: >
   the most affected country by the Covid-19. Doctors are doing their best to
   fight the pandemic but they don’t have enough medical supply such as
   ventilators. 
-featuredimage: /blog-images/coronavirus-4914026_640.jpg
+featuredimage: /blog-images/printer-2416269_1280.jpg
 ---
 Access this article in [FR](https://docs.google.com/document/d/1LZyGF0uPGbIbaNnZLgcdkP8jsCf4FVNQhcSRewGriJQ/edit) / [DE](https://docs.google.com/document/d/1SC9IZ6i8Z52kSMiKJgtVafsDcgZi8p-OQ9WWR0qjFB4/edit) / [ESP](https://docs.google.com/document/d/1bJfZVM06kuXTMKveY5BS3fbpOxwcIqO42XINZkA_M9Y/edit) / [RUS](https://drive.google.com/drive/folders/1pD1u26Ov3TFg9ccU6FniidTDSoYsu9gI)\
 \
