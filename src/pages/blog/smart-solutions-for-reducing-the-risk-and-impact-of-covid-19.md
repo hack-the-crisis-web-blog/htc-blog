@@ -9,7 +9,7 @@ COVID-19 has forced 3 billion people into lockdown around the globe, but even
 that hasn’t stopped some enterprising cohorts of talent around the world from
 coming together to apply their skills, experience and knowledge to developing
 potential solutions to deal with the pandemic.
-author: "By Chris Rhyss Edwards, CEO Empathic Ltd"
+author: By Chris Rhyss Edwards, CEO Empathic Ltd
 featuredimage: /blog-images/coronaapp2.jpg
 
 ---Access this article in [FR](https://docs.google.com/document/d/1X9QnMpUmTlZe8tPuJ0FEDI9j92TUElQ8UF8eWhsaTTQ/edit) / [DE](https://docs.google.com/document/d/1ldZEFb4-6BTGTYNNEkKZXgjjmOubgkCTyVCXuerKKPg/edit) / [ESP](https://docs.google.com/document/d/1o2PNUqa-XNoKyT7Q4mQULvjGCD-wJ26vD1MvZpgZ1Gs/edit) / [RUS](https://drive.google.com/drive/folders/1ekE5UBAWwva5409ZjfYMVMUIrVsoK-2k)
