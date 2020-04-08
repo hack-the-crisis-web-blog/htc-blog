@@ -5,9 +5,8 @@ date: 2020-04-08T09:18:40.173Z
 description: >-
   15,000 participants came together online to solve the challenges caused by the
   crisis using technology as part of the global hackathon movement.
-featuredimage: /blog-images/miti-mrb1ajiwcjs-unsplash.jpg
+featuredimage: /blog-images/pajamas.jpg
 ---
-
 Access these articles in [FR](https://docs.google.com/document/d/1pg2YVWrO275cUGAM9Dx2Qb87NICV50zVJ6jWm1ctQo4/edit) / [DE](https://docs.google.com/document/d/1z-fD0OjNQ36i26emRaOWOGsMMw4uYFRCJDJm-xt_p7s/edit) / [ESP](https://docs.google.com/document/d/1WiwA6VxjudjtzH7Xu17YEqf2DsBeOcPy6pn49zZWdPk/edit) / [RUS](https://drive.google.com/drive/folders/1H6CpGgieqG9FmyfvsZjcha3K3O4cIYpX)
 
 In Italy, one of the hardest-hit countries in the novel coronavirus pandemic, the human spirit is very much alive. As videos of people singing from their balconies went viral online, others were sitting on their sofas with laptops coming up with solutions to new and complex problems. Issues like scarcity and processing time of tests, social isolation of at-risk groups, and lack of income for shuttered businesses. The beauty of their solutions is that not only can they xxx now, but they will continue helping people in new ways long after the crisis ends.
@@ -25,3 +24,7 @@ Another product of Italy’s hackathon is [www.promettoditornare.it](http://www.
 Less than two weeks out from the event, the hackathon winners are quickly finding ways to bring their ideas to life. They are in need of designers, developers, specialists, marketers, funds and many other assets, but they are not letting that stop them. When so much is uncertain, it is reassuring to see people looking out for their neighbors, their communities, and people far away they may never meet.
 
 Though many national hackathons have passed, if you have an idea or the motivation to make an impact, register now for [The Global Hack](https://theglobalhack.com/), 9-12 April. Make history and partake in the biggest hackathon ever held.
+
+
+
+**by Jae Jensen**
