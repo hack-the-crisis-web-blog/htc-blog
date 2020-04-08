@@ -5,8 +5,8 @@ date: 2020-04-08T09:18:40.173Z
 description: >-
   15,000 participants came together online to solve the challenges caused by the
   crisis using technology as part of the global hackathon movement.
-featuredimage: /blog-images/pajamas.jpg
 author: "by Jae Jensen"
+featuredimage: /blog-images/pajamas.jpg
 ---
 
 Access these articles in [FR](https://docs.google.com/document/d/1pg2YVWrO275cUGAM9Dx2Qb87NICV50zVJ6jWm1ctQo4/edit) / [DE](https://docs.google.com/document/d/1z-fD0OjNQ36i26emRaOWOGsMMw4uYFRCJDJm-xt_p7s/edit) / [ESP](https://docs.google.com/document/d/1WiwA6VxjudjtzH7Xu17YEqf2DsBeOcPy6pn49zZWdPk/edit) / [RUS](https://drive.google.com/drive/folders/1H6CpGgieqG9FmyfvsZjcha3K3O4cIYpX)

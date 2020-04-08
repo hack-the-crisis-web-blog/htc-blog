@@ -6,8 +6,8 @@ description: >
   Health-Tech - the world's second fastest growing innovation sector, with an
   almost unprecedented growth trajectory - is a far more interesting sector than
   it initially sounds.
-featuredimage: /blog-images/patient-care.jpg
 author: "By Chris Rhyss Edwards, CEO Empathic Ltd"
+featuredimage: /blog-images/patient-care.jpg
 ---Access this article in [FR](https://docs.google.com/document/d/10nWfoYAZmpyuW6l0kLgtD8NORdUg-LPCYkJ6TOaRUKI/edit) / [DE](https://docs.google.com/document/d/1aL0cjm6rpHF5uGQg1AnCabEoV8W-Oh1bwErXlmIBJpY/edit) / [ESP](https://docs.google.com/document/d/1K6Uafs8CP0RLPZZs3qHk6PQxnGjQNIksLuSnEiinRbA/edit) / [RUS](https://drive.google.com/drive/folders/1YzbAaPA5eKVwPkAo6RVT0lJnGN5ia-PV)\
 \
 It’s interesting because the health care sector is desperate for disruption and innovation all the way along the value chain from improving patient delivery of care, right through to back office innovations that improve interoperability of an array of legacy enterprise systems with a widening array of nimble, purpose built databases, applications, platforms and devices.
