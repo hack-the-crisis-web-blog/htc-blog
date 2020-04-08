@@ -4,15 +4,14 @@ title: A first-hand account of being quarantined with COVID-19…
 author: by Chris Rhyss Edwards
 date: 2020-04-08T17:57:40.233Z
 description: >-
-  Saturday, March 7th was a life changing day for 48yr old Tiit Müil. “I started
-  feeling chills, but they didn’t seem too serious, so I still made it to two
-  exercise classes. But I knew something wasn’t right after I came out of the
-  sauna…” 
+  Saturday, March 7th was a life changing day for 48yr old Tiit Müil. Attending
+  the Saaremaa Mullifestival - Estonia’s biggest Champagne and Sparkling Wine
+  Festival - without a care in the world, he spent the day mingling with the
+  crowd of revellers, spending hours savouring some of the best food and wine
+  from around the world.
 featuredimage: /blog-images/coronavirus-4914026_640.jpg
 ---
 **A first-hand account of being quarantined with COVID-19…**
-
-Saturday, March 7th was a life changing day for 48yr old Tiit Müil. Attending the Saaremaa Mullifestival - Estonia’s biggest Champagne and Sparkling Wine Festival - without a care in the world, he spent the day mingling with the crowd of revellers, spending hours savouring some of the best food and wine from around the world.
 
 Little did he or the crowd know that COVID-19 had arrived on Estonia’s shores just days before. How could they have known, as COVID-19 was barely making news headlines in other countries? So Tiit and co enjoyed their weekend and returned home as the weekend came to a close.
 
