@@ -8,6 +8,8 @@ description: >
   important weekend of your life. 
 featuredimage: /blog-images/nerd.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/1Bo1mUZpaDWGixbOe_TeHbKll_Ovtt5y0dgAB5WGOaug/edit)/[DE](https://docs.google.com/document/d/1dAkqG_sh_S7e-DE7xT7sO2i4XwR39wyfAtPVd5xvSF0/edit)/[RU](https://drive.google.com/drive/folders/1TQIIlPEH2fEvrip7zx3Kkw8_FzC0YiH0)/[ES](https://docs.google.com/document/d/1z4j2-3lCRweKMmL8Wy86euT3Hipy-QFmiFh0bKDUx4E/edit)
+
 With around half of humanity in some form of lockdown over the coronavirus, you may be at home running out of things to do. While scrolling Facebook, something catches your eye… an invite to an online hackathon. But what is a hackathon?
 
 The word comes from “hacking marathon” and brings a lot of images to mind: people in hoodies and headphones furiously coding, hyped up on caffeine, shouting. A hackathon is an intense brainstorming event where people with different skills get together, exchange ideas, form teams around the best ideas and develop working prototypes over the course of 48 hours.
