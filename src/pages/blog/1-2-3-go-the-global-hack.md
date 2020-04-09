@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 1-2-3 GO! The Global Hack
-author: Elis Tootsman
+author: Chris Rhyss Edwards
 date: 2020-04-09T11:01:50.092Z
 description: >-
   Just four weeks after the Hack the Crisis movement began, The Global Hack
