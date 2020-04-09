@@ -8,6 +8,8 @@ description: >-
   pandemic, so digital divide gap need to be closed.
 featuredimage: /blog-images/granny.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/1zsf41sFBdF2jX5rKrGk5G8lmn9Djk-jEzwzqpSKuUZI/edit)/[DE](https://docs.google.com/document/d/1uof_-2EOtaIQKgHwRvosxaNVR4GjuHhVj9EyqJy8bV0/edit)/[RU](https://drive.google.com/drive/folders/1PkTozk74GYPnM5qwNm8iZiCe8d2s8n4O)/[ES](https://docs.google.com/document/d/13ncM8GK8KDNB8GxlUzpskWNiloCOZzPprWj14qR4Acc/edit)\
+\
 *Lisa is 93 and lives in the village far from the city. As all seniors she is locked in her small home now due to quarantine. She still uses old beat-up Nokia with small buttons for calls and the mobile coverage is far from good there. That's what I've learned from yesterday's talk with Julia, manager in big telco, who is isolated in the city far from her granny. “I don't know how to help her, I can't say if she's really all right. We can't even establish communication and see her by Whatsapp”, cries Julia.*
 
 In 2018, for the first time in history, persons aged 65 or above outnumbered children under five years of age globally, according to UN. Today, there are 700 million people aged 65+, a number that is projected to reach 1.5 billion by 2050. And we are leaving them out of the digital world yet.
