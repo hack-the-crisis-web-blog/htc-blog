@@ -9,6 +9,8 @@ description: >-
   translation app would lower that risk.
 featuredimage: /blog-images/corona-4945391_1280.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/1eXJsMUjRUzZGvNzc5Jry7HeFiQ1IgC3yImVyXiU4d6o/edit#heading=h.gjdgxs)/[DE](https://docs.google.com/document/d/1KtNkkjd0JI4pVKRBoCMSp_o601AJuWQAMQ0vKUdWR2Q/edit)/[RU](https://drive.google.com/drive/folders/15XY4lSEVWmFkTuW86ZUFX4U3UCHuPnch)/[ES](https://docs.google.com/document/d/1eE0hu7WDVA9ly1nNL0-6vJcdAS5iigKc7gu0ebgVtzo/edit)\
+\
 With ‘The Global Hack’ kicking off in a matter of hours, it’s heartening to see so many worthy projects being submitted that align with the various UN sustainability goals that the event has been shaped around.
 
 The goal is simple, each virtual team needs to work together to develop an MVP over a 48hr period, delivering a practical solution that aligns with one, or more, of the program streams that include crisis, governance, education, environment, mental health, solidarity in action, empowerment, health & wellness, and work.
