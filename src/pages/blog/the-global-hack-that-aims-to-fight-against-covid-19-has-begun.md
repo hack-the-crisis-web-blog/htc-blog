@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'The Global Hack, that aims to fight against COVID-19, has begun'
+title: 'The Global Hack, that aims to fight against COVID-19, has begun!!!'
 author: The Global Hack team
 date: 2020-04-09T16:45:28.353Z
 description: >-
