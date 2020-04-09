@@ -8,7 +8,7 @@ description: >-
   MVPs within tracks inspired by the UN sustainability goals, including
   sustainability, governance, education, environment, mental health & solidarity
   in action. Results announced April 12.
-featuredimage: /blog-images/cover-photo.jpg
+featuredimage: /blog-images/matrix-2354492_1280.jpg
 ---
 Kai Isand, head organiser of The Global Hack, believes shaping the event around tangible sustainability goals is the reason the event has attracted so much interest from participants, media, and partners from around the globe.
 
