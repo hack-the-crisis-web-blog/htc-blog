@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Italians are hacking the COVD-19 crisis from their pajamas
+title: Italians are hacking the COVID-19 crisis from their pajamas
 author: by Jae Jensen
 date: 2020-04-08T09:18:40.173Z
 description: >-
