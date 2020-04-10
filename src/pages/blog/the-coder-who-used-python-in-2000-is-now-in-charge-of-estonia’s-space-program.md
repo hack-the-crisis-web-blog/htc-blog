@@ -10,6 +10,10 @@ description: >-
   dominant coding language was PHP.
 featuredimage: /blog-images/kaimar-karu_print-1-.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/1wJ0v4F9Nxiqn5SMsPkxKAp6kmM2nXUgKsPQhRBCxQ54/edit)/[DE](https://docs.google.com/document/d/1RHWcnbcPJIYMJrRx8gv9pajEyGCUe5-xRjSNdDZG1og/edit)/[RU](https://docs.google.com/document/d/1nIR_AHbQIQt1D72l7ogXLYi5PMkyJc4y/edit)/[ES](https://docs.google.com/document/d/1TFXNo15sCoYA0XAvm5VGuZsnQUbb_iDZu-U-5TLXOFY/edit)
+
+
+
 Yet at that time, Karu encouraged his dev team to code in Python, today’s coding language of choice in the epoch of AI and Machine Learning. Why? Because, in his view, Python was better.
 
 “We delivered projects using Python at a time where everybody was using PHP, so we were outliers who used different languages simply because we thought it worked best. Throughout my career I have had the opportunity to work with amazing, forward-looking people who have rarely settled for the status quo. Now look at the world, Python is everywhere,” Karu said.
