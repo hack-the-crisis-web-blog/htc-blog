@@ -10,6 +10,10 @@ description: >+
 
 featuredimage: /blog-images/voice-control-2598422_640.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/14jJW461VVXqpcFFrfeAZKB_VWNtjldICGW4Og-IyTJI/edit)/[DE](https://docs.google.com/document/d/1GnpNvW_fZ3UFPqqW7uMioKoR_YzJZufLa8OqtWxxNsw/edit)/[RU](https://docs.google.com/document/d/1q6tQvZLid6cebs7VfwTC2VRhAn9veCZu/edit)/[ES](https://docs.google.com/document/d/1NYwe-yt_8ij2uP2GJ54-g7gz35lramjaTY5dS5N8JrQ/edit)
+
+
+
 It’s little surprise that the country that holds one of the world’s largest song festivals has made voice-enabled technology a priority in its next evolution of delivering seamless digital government services.
 
 Voice-enabled services are arguably the technology that will change the lives of almost everyone connected to the internet. Consider the facts; at present, around 20% of all searches are voice, around 30% of smartphone users worldwide use voice tech at least once a week, and astonishingly, it’s estimated that around 50% of all online searches will be voice-based in the next year or two.
