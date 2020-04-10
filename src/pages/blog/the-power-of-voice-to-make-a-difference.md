@@ -28,6 +28,6 @@ Looking specifically at the health care sector, the potential use cases of voice
 
 Which is probably why voice is such a hot topic in the global hacker community. At a recent hackathon in Italy, voice took centre stage when a local team developed a solution to help isolated elderly people stay connected. Likewise, in the upcoming “[The Global Hack](http://www.theglobalhack.com)” event which is attracting literally thousands of designers, programmers, data scientists and health care workers, to explore how to rapidly hack tech to deliver solutions to COVID-19, it’s expected voice solutions will be a hot topic.
 
-The Global Hack is a partnership between Accelerate Estonia, Garage48, with additional financial support from the European Commission, running from 09-12 April and is expected to attract over 1 million participants from across the world.
+The Global Hack is a partnership between Accelerate Estonia, Garage48, with additional financial support from the European Commission, running from 09-12 April and is expected to attract over 10,000 participants from across the world.
 
 <!--EndFragment-->
