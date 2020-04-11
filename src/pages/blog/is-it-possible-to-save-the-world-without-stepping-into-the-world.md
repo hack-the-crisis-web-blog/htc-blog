@@ -13,7 +13,7 @@ description: >
   crisis, COVID-19. 
 featuredimage: /blog-images/2_indian-woman.jpg
 ---
-Access this article in FR/[DE](https://docs.google.com/document/d/1OUt14G48i16BcLgXdSNInwsa-5yYbN0v549KO30xfKE/edit)/[RU](https://docs.google.com/document/d/16KfvK-5A8Ay1_vK6rRfHb53fvPu69I92/edit)/[ES](https://docs.google.com/document/d/1kD6DmOXWpk4Ky1UH91vn7WJpOMiTqV0__BCpLczqEFQ/edit)
+Access this article in [FR](https://docs.google.com/document/d/16B0dYzOiNVhWM34jaWIF07S6KlXwfwGB6LfBrAGB1GU/edit)/[DE](https://docs.google.com/document/d/1OUt14G48i16BcLgXdSNInwsa-5yYbN0v549KO30xfKE/edit)/[RU](https://docs.google.com/document/d/16KfvK-5A8Ay1_vK6rRfHb53fvPu69I92/edit)/[ES](https://docs.google.com/document/d/1kD6DmOXWpk4Ky1UH91vn7WJpOMiTqV0__BCpLczqEFQ/edit)
 
 Inspired by the global movement of #hackthecrisis, the Hack the Crisis-India initiative responded to the outbreak by swiftly executing Hack the Crisis-India rollout on 22nd March and thus joined the global hackathon movement, in less than a day. However, India’s population is thousand times that of EU countries and hence putting together their hackathon format where teams submit solutions that caters to the needs of 1.3 billion people was an applaudable challenge. Another hurdle was that the country has been under lockdown since 24th March so work was highly restricted. But as the famous phrase goes, when the going gets tough, the tough get going. And who tougher than women to take up this mantle to save the world?
 
