@@ -6,7 +6,7 @@ date: 2020-04-11T14:07:30.478Z
 description: >
   In our extraordinary pursuit to avoid risky human contacts could we use
   self-flying drones and self-driving cars?
-featuredimage: /blog-images/dose-media-ditiyqx0mh4-unsplash.jpg
+featuredimage: /blog-images/goh-rhy-yan-p_5bnqhfz3y-unsplash.jpg
 ---
 Access this article in [FR](https://docs.google.com/document/d/1EmRDY_n6jd7kwainhceOFpgzJS8Xf_bkN7P0c7LCymE/edit)/[DE](https://docs.google.com/document/d/1SkM4ouuh8LPCg207zrpLBFC6klv5zmowIZf4uzs5lJY/edit)/[RU](https://docs.google.com/document/d/1CdO-0P_sWHaSWHQDpoqc_-BM9z2hyKUT/edit)/[ES](https://docs.google.com/document/d/1zuJLuj1lsGUmxhtSc-43fbUytFHKz0kNU0yroHVe7VY/edit)
 
