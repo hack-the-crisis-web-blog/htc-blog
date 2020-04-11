@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Is it possible to save the world without stepping into the world? '
-author: 'by Chris Rhyss Edwards '
+author: by Payal Manan
 date: 2020-04-11T14:12:46.330Z
 description: >
   India is a country of 1.3 billion people. To put this in perspective, the
