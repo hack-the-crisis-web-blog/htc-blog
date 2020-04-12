@@ -9,6 +9,10 @@ description: >-
   humanities history. 
 featuredimage: /blog-images/community.jpg
 ---
+Access this article in [FR](https://docs.google.com/document/d/1o6tDCIqD1px5fpqVgNkROIltvinM0QaFWcskDRBIlLE/edit)/[DE](https://docs.google.com/document/d/1vaZkOosywvbSuWSrkR6kSk7Sx00KeyT3VhN8mrLXxRk/edit)/[RU](https://docs.google.com/document/d/1XclLElKb8y40ak3Q_c7_7eDr2e4BWhbd/edit)/[ES](https://docs.google.com/document/d/1IAvfUlob7pIKUH3S5PXY4crZTiJN_WEilurW45ALe_E/edit)
+
+
+
 Consider the following…
 
 On one channel, civilisation has been completely upended. The rug has been pulled completely out from under our feet without warning, and the world as we know it is irrevocably changed. Half of humanity are locked up in their homes. Coffee shops and all the little things we so recently took for granted have been ripped from our lives for an unforeseeable future. The future looks bleak indeed.
