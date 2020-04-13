@@ -38,7 +38,7 @@ Another important factor: This solution doesn't need maintenance, produces no wa
 
 Second place went to Act On Crisis - secure emotional support that fits your cultural background
 
-According to the Lithuanian government before this crisis approx 12% of the population was in need of psychological support. There’re currently 3bln people in lockdown which means that at least 360mln are experiencing strong emotional imbalance. Due to crisis when the number of unemployment is rising, increased anxiety is inevitable. Act on Crisis hopes to cover at least 1000 hr/week by 1on1 video calls or community rooms guarded by professionals we could help at least 4500 people per week. Bring those in need together fostering dialogue instead of suffering in loneliness. Check out their [video pitch.](https://youtu.be/T1KJSdffOys)
+According to the Lithuanian government before this crisis approx 12% of the population was in need of psychological support. There’re currently 3bln people in lock down which means that at least 360mln are experiencing strong emotional imbalance. Due to crisis when the number of unemployment is rising, increased anxiety is inevitable. Act on Crisis hopes to cover at least 1000 hr/week by 1on1 video calls or community rooms guarded by professionals we could help at least 4500 people per week. Bring those in need together fostering dialogue instead of suffering in loneliness. Check out their [video pitch.](https://youtu.be/T1KJSdffOys)
 
 Third runner up for the best idea at The Global Hack isMaterial Mapper.
 
