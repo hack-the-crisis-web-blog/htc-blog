@@ -10,7 +10,7 @@ featuredimage: /blog-images/eurovisioon.gif
 ---
 Access this article in [FR](https://docs.google.com/document/d/1-q9CABWCVa74sDW9gdaXS6uBK7HTcD3TQ2DKOkMqIPg/edit)/[DE](https://docs.google.com/document/d/14O-jazljir9hr-27UJlBSM4R6t3wnsB1M84cmlk5Ejg/edit)/[RU](https://docs.google.com/document/d/1IjaIYHsimcu9fBlF-Gw8Mrf9mGL_xlmf/edit)/[ES](https://docs.google.com/document/d/1J5ItT-Vs6p4FvH-fyGCamPdj5gJCAneQBincn0oryyE/edit)
 
-“Thirty days ago, when we launched our local #HACKTHECRISIS event in Estonia we honestly didn’t know we were going global,” said event co-founder Kai Isand. “But what we’ve achieved in the past month is simply beyond expectation, it feels almost surreal.”
+“Thirty days ago, when we launched our local #HACKTHECRISIS event in Estonia we honestly didn’t know we were going global,” said event head organizer Kai Isand. “But what we’ve achieved in the past month is simply beyond expectation, it feels almost surreal.”
 
 “Our previous hackathon, that took place 13th to 15th March produced 8 prototypes that are already in the market, like a chatbot named [SUVE](https://news.err.ee/1067675/government-launches-chatbot-to-answer-coronavirus-crisis-queries), now being used by our government to answer people’s questions about COVID, [coronavirus tracking app ](https://www.velmio.com/corona-tracker)now in BETA testing before global rollout, workforce sharing platform [Share Force One](https://shareforceone.ee/en/), medical volunteer management database VAAB, and [Zelos’ solution ](https://www.getzelos.com/)that connects people at risk with volunteers via a call centre.
 
@@ -18,7 +18,7 @@ These are just a few examples from Estonia, but we have many workable solutions 
 
 The Global Hack event partnered with tech enthusiasts, business leaders, project managers, marketing experts, designers, and innovators from around the world to exchange ideas and practices to develop creative and practical prototypes. But it’s also about far more than tech.
 
-Event co-founder Calum Cameron is on a mission to activate a critical mass of humanity. “This crisis has sparked a genuine global movement that nobody owns and everyone can participate in,” he said. ”People shut-in across the world are collaborating with tools from the startup world at massive scale. Tools like rapid experimentation by prototyping ideas. They are finding they can solve the wicked real-world problems normally left to governments. They are discovering they are connected, and their ideas have no borders.”
+Event co-organizer Calum Cameron is on a mission to activate a critical mass of humanity. “This crisis has sparked a genuine global movement that nobody owns and everyone can participate in,” he said. ”People shut-in across the world are collaborating with tools from the startup world at massive scale. Tools like rapid experimentation by prototyping ideas. They are finding they can solve the wicked real-world problems normally left to governments. They are discovering they are connected, and their ideas have no borders.”
 
 The founders believe the event couldn’t have succeeded without the support of the UN and the European Commission, an army of world-class thought leaders, the support of worldwide media, and the dedication of a team of ‘locked down’ volunteers worldwide who donated hundreds of hours of their time to bring the event to life.
 
