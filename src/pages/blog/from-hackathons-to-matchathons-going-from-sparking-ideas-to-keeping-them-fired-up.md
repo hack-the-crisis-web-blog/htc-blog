@@ -12,7 +12,7 @@ description: >-
   overwhelming. It is a messy collaborative space for co-creation — where ideas
   spark and like-minded people come together in rapid experimentation-mode and
   produce in 48 hours or less highly innovative solutions.
-featuredimage: /blog-images/0.jpg
+featuredimage: /blog-images/perry-grone-lblgffladry-unsplash.jpg
 ---
 We just completed with the absolutely amazing support of more than 500 volunteers the [EUvsVirus ](https://euvsvirus.org/)hackathon which brought together more than 20,000 participants and produced more than 2,000 projects.
 
