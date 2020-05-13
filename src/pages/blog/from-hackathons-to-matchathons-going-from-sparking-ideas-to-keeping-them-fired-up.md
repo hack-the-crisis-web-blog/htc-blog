@@ -4,7 +4,7 @@ title: >-
   From Hackathons to Matchathons: going from sparking ideas to keeping them
   fired up!
 author: >-
-  Bjorn-Soren Gigler, PhD Senior Digital Innovation Officer at European
+  By Bjorn-Soren Gigler, PhD Senior Digital Innovation Officer at European
   Commission
 date: 2020-05-13T10:44:07.121Z
 description: >-
