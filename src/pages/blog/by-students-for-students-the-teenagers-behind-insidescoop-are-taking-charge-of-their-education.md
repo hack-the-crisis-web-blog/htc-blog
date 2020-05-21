@@ -9,7 +9,7 @@ description: >
   Amrit, Rohan, Beck, and Sasha, the winners of The Global Hack’s Education
   track and €10,000 prize, sought to evolve their engagement-tracking software
   further at the Hack The Crisis Matchathon.
-featuredimage: /blog-images/insidescoop_photo.png
+featuredimage: /blog-images/insidescoop-photo.png
 ---
 In April 2020, 91% of the world’s students were out of school. This works out to 1.6 billion future entrepreneurs, doctors, presidents, artists, etc. While many adults struggle to adapt to the challenges of working from home, students have had their own difficulties in a new, remote education system. They become distracted and disengaged more easily, and teachers are in the dark as to whether their class is following the material.
 
