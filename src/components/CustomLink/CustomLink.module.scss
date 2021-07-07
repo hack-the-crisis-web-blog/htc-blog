@@ -1,0 +1,40 @@
+@import "../../styles/styleSetup.scss";
+
+.customLink {
+  text-decoration: none;
+  padding-bottom: 5px;
+  border-bottom: 1px solid;
+
+  &:hover,
+  &:visited,
+  &:link,
+  &:active {
+    text-decoration: none;
+  }
+
+  &.light {
+    color: $white;
+  }
+
+  &.light:hover {
+    color: $warning;
+  }
+}
+
+.text {
+  padding-bottom: 5px;
+  color: inherit;
+}
+
+.arrow {
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.reversed {
+  .arrow {
+    margin-right: 5px;
+    margin-left: 0;
+  }
+}

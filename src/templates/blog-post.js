@@ -4,6 +4,7 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import CustomLink from "../components/CustomLink/CustomLink";
 
 export const BlogPostTemplate = ({
   content,
@@ -11,6 +12,7 @@ export const BlogPostTemplate = ({
   description,
   title,
   helmet,
+  date,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -20,9 +22,13 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+            <CustomLink to="/" reversed>
+              Back
+            </CustomLink>
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <p>{date}</p>
             <p>{description}</p>
             <PostContent content={content} />
           </div>
@@ -50,7 +56,7 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s | News">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
@@ -58,7 +64,7 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
+        date={post.frontmatter.date}
         title={post.frontmatter.title}
       />
     </Layout>

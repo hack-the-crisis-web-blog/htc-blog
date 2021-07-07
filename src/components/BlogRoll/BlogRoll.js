@@ -15,7 +15,7 @@ class BlogRoll extends React.Component {
       <div id="blogRoll" className="has-background-success">
         <Section>
           <div className={"container has-text-primary"}>
-            <SectionTitle title="Latest blog posts:" />
+            <SectionTitle title="Latest News" />
             <SectionDescription
               text={
                 "The tracks are inspired by the UN sustainability goals that cover the majority of our future challenges. These are the areas most likely to see the biggest challenges."
@@ -27,7 +27,7 @@ class BlogRoll extends React.Component {
                   return (
                     <div
                       key={post.id}
-                      className="column is-full-mobile is-half-tablet is-one-third-desktop"
+                      className="column is-full-mobile is-full-tablet is-full-desktop"
                     >
                       <BlogPostCard
                         title={post.frontmatter.title}
@@ -66,7 +66,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 250)
+              excerpt(pruneLength: 350)
               id
               fields {
                 slug
